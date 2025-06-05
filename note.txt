@@ -1,0 +1,14 @@
+1680px
+wide
+
+1280px
+normal
+
+960px
+narrow
+
+840px
+narrower
+
+736px
+mobile
